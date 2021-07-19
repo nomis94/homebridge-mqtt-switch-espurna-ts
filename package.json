@@ -2,7 +2,6 @@
   "name": "homebridge-mqtt-switch-espurna-ts",
   "version": "0.1.0",
   "description": "An example accessory plugin for homebridge written in Typescript",
-  
   "main": "dist/accessory.js",
   "scripts": {
     "clean": "rimraf ./dist",
@@ -31,7 +30,6 @@
   "keywords": [
     "homebridge-plugin"
   ],
-
   "author": "Simon Schmidt <mail@pomminger@gmail.com>",
   "license": "ISC",
   "repository": {
